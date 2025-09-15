@@ -1,0 +1,10 @@
+,Parent_Gate,Gate,X_axis,Y_axis
+0,,Single_cell_gate_1,DNA1,Event_length
+1,Single_cell_gate_1,Single_cell_gate_2,DNA2,CD45
+2,Single_cell_gate_2,Granulocyte,CD66b,CD45
+3,Single_cell_gate_2,Mononuclear,CD66b,CD45
+4,Granulocyte,Neutrophil,CD16,CD294
+5,Granulocyte,Eosinophil,CD16,CD294
+6,Mononuclear,T_cell,CD3,CD19
+7,Mononuclear,B_cell,CD3,CD19
+8,Mononuclear,No_T_Non_B_cell,CD3,CD19
